@@ -27,9 +27,7 @@ Admins can manage menu items, orders, and more.
 | Node.js        | Runtime environment for JS backend |
 | Mongoose       | ODM to interact with MongoDB |
 | JWT            | User authentication |
-| Redux Toolkit  | State management (optional) |
 | Tailwind CSS   | Styling and layout |
-| Cloudinary     | Image upload & storage (optional) |
 | Render/Vercel  | Deployment |
 
 ---
